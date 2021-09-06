@@ -9,7 +9,7 @@
     "cz": "cz",
     "lint": "pretty-quick --staged && lint-staged",
     "release": "standard-version",
-    "publish": "git push --follow-tags origin main"
+    "push": "git push --follow-tags origin main"
   },
   "husky": {
     "hooks": {
