@@ -1,5 +1,4 @@
-console.log("hello") ;
-console.log("simi");
+console.log('hello')
+console.log('simi')
 console.log('heloo')
-console.log('nice')
-you
+console.log('nice');
