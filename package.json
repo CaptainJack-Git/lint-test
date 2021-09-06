@@ -17,7 +17,8 @@
   "scripts": {
     "fix": "eslint --fix *.js",
     "eslint": "eslint *.js",
-    "quick": "pretty-quick --staged"
+    "quick": "pretty-quick --staged",
+    "lint": "pretty-quick --staged && lint-staged"
   },
   "husky": {
     "hooks": {
