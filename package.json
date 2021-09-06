@@ -13,7 +13,7 @@
     "lint-staged": "^11.1.2"
   },
   "scripts": {
-    "lint": "lint-staged"
+    "fix": "eslint --fix"
   },
   "husky": {
     "hooks": {
