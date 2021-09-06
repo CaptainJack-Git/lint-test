@@ -4,3 +4,5 @@
 echo ">>>发布到线上"
 
 yarn release
+
+echo ">>>standard-version done!"
