@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.6-hey.0](https://github.com/CaptainJack-Git/lint-test/compare/v1.1.5...v1.1.6-hey.0) (2021-09-06)
+
 ### [1.1.5](https://github.com/CaptainJack-Git/lint-test/compare/v1.1.4...v1.1.5) (2021-09-06)
 
 
