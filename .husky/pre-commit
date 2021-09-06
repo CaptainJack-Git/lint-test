@@ -1,4 +1,5 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-npx lint-staged
+pretty-quick --staged && lint-staged
+echo "开始格式化"
