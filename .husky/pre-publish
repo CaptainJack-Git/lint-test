@@ -2,4 +2,5 @@
 . "$(dirname "$0")/_/husky.sh"
 
 echo ">>>发布到线上"
-yarn release && git push && git push --tags
+
+yarn release
