@@ -12,6 +12,9 @@
     "husky": "^7.0.2",
     "lint-staged": "^11.1.2"
   },
+  "scripts": {
+    "lint": "lint-staged"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
