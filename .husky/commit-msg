@@ -1,0 +1,5 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+echo "代码提交消息格式检查"
+npx --no-install commitlint --edit
