@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/CaptainJack-Git/lint-test/compare/v1.1.0...v1.1.1) (2021-09-06)
+
+
+### 🚀 Chore | 构建/工程依赖/工具
+
+* 尝试添加版本emoji格式 ([845fd9b](https://github.com/CaptainJack-Git/lint-test/commit/845fd9bc85d4cc23f3eab27d6ed931bb59bffec6))
+
 ## [1.1.0](https://github.com/CaptainJack-Git/lint-test/compare/v1.0.2...v1.1.0) (2021-09-06)
 
 
