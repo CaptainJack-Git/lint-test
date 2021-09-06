@@ -20,6 +20,11 @@
     "quick": "pretty-quick --staged",
     "lint": "pretty-quick --staged && lint-staged"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged && lint-staged"
+    }
+  },
   "lint-staged": {
     "*.js": [
       "eslint *.js"
