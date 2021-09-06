@@ -13,7 +13,7 @@
     "lint-staged": "^11.1.2"
   },
   "scripts": {
-    "fix": "eslint --fix",
+    "fix": "eslint --fix *.js",
     "eslint": "eslint *.js"
   },
   "husky": {
@@ -23,7 +23,7 @@
   },
   "lint-staged": {
     "*.js": [
-      "eslint --fix"
+      "eslint --fix *.js"
     ]
   }
 }

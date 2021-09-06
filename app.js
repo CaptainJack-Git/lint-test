@@ -1,3 +1,2 @@
-console.log('hello') ;
-you
-nice
+console.log("hello") ;
+console.log("simi");
