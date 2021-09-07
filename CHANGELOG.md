@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.7](https://github.com/CaptainJack-Git/lint-test/compare/v1.1.6...v1.1.7) (2021-09-07)
+
+
+### 🚀 Chore | 构建/工程依赖/工具
+
+* 当前husky版本v7, 移除husky v4版本的钩子 ([b184479](https://github.com/CaptainJack-Git/lint-test/commit/b1844793e8757fe29bbf01a57ff86b91f6b82d99))
+
 ### [1.1.6](https://github.com/CaptainJack-Git/lint-test/compare/v1.1.6-hey.0...v1.1.6) (2021-09-06)
 
 
