@@ -8,7 +8,7 @@
   "scripts": {
     "start": "nodemon --watch app.js --watch src app.js --exec 'npm run pretty'",
     "pretty": "prettier --write app.js src/**/*.js",
-    "cz": "cz",
+    "cz": "git cz",
     "lint": "pretty-quick --staged && lint-staged",
     "release": "standard-version"
   },
@@ -37,6 +37,7 @@
     "cz-customizable": "^6.3.0",
     "eslint": "^7.32.0",
     "eslint-plugin-prettier": "^4.0.0",
+    "git-cz": "^4.7.6",
     "husky": "^7.0.2",
     "lint-staged": "^11.1.2",
     "nodemon": "^2.0.12",
@@ -49,7 +50,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-customizable"
+      "path": "git-cz"
     }
   }
 }
