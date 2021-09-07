@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.8](https://github.com/CaptainJack-Git/lint-test/compare/v1.1.7...v1.1.8) (2021-09-07)
+
+
+### 🚀 Chore | 构建/工程依赖/工具
+
+* 添加style lint ([6377cd9](https://github.com/CaptainJack-Git/lint-test/commit/6377cd917da1f254296ea00a668e38bdf1b2b2da))
+* **package.json:** 自定义commitizen提示信息 ([3a7ed6c](https://github.com/CaptainJack-Git/lint-test/commit/3a7ed6cf1de5929e9f701fc9a5720356eb3029cd))
+
 ### [1.1.7](https://github.com/CaptainJack-Git/lint-test/compare/v1.1.6...v1.1.7) (2021-09-07)
 
 
