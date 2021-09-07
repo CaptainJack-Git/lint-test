@@ -15,11 +15,6 @@
       "posttag": "git push --follow-tags origin main"
     }
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged && lint-staged"
-    }
-  },
   "lint-staged": {
     "*.js": [
       "eslint *.js"
